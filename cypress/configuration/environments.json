@@ -1,0 +1,11 @@
+{   
+    "prod" : {
+        "baseUrl" : "https://teacher.snappet.org/",
+        "users" : {
+                "teacher1" : {
+                    "username" : "StanislavInterview",
+                    "password" : "P@ssw0rd"
+                }
+            }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "env" :
+        {
+            "ENV" : "prod"
+        },
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 5000,
+    "reporter": "cypress-mochawesome-reporter"
+}
